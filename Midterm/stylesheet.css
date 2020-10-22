@@ -15,3 +15,11 @@ p{
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
+
+#byline{
+  font-family: Georgia, "Times New Roman," serif;
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
