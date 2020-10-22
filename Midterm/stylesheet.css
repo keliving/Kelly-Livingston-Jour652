@@ -34,6 +34,8 @@ img{
   height: auto;
 }
 
+/*to differentiate the related content*/
+
 #related-content{
   font-size: 16px;
   font-weight: bold;
