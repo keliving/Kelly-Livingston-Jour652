@@ -41,3 +41,10 @@ img{
   font-weight: bold;
   font-style: italic;
 }
+
+blockquote{
+  font-style: italic;
+  font-size: 16px;
+  padding: 10px;
+  color: purple;
+}
