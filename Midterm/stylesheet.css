@@ -44,7 +44,8 @@ img{
 
 blockquote{
   font-style: italic;
-  font-size: 16px;
+  font-size: 24px;
   padding: 10px;
   color: purple;
+  font-weight: bold;
 }
