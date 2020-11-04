@@ -31,3 +31,7 @@ img{
   margin-right: auto;
   width: 50%;
 }
+
+figcaption{
+  text-align: left;
+}
