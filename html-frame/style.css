@@ -33,3 +33,9 @@ figure img {
   width: 50%;
   vertical-align: top;
 }
+
+footer{
+  font-size: 25px;
+  color: white;
+  background-color: black;
+}
