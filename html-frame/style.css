@@ -16,3 +16,9 @@ p{
   font-family: georgia, serif;
   line-height: 180%;
 }
+
+.chapter-headline{
+  font-size: 2em;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
