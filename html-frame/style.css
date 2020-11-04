@@ -24,17 +24,13 @@ p{
 }
 
 figure {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: inline-block;
+  text-align: center;
 }
 
 figure img {
   max-width: 100%;
   height: auto;
   width: 50%;
-}
-
-figure figcaption {
-    text-align: left;
+  vertical-align: top;
 }
