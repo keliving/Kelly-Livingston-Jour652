@@ -1,0 +1,22 @@
+.headline{
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  padding: 15px;
+}
+
+.subhead{
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+.byline{
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  padding: 15px;
+}
