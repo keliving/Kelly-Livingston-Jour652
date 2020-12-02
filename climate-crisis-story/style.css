@@ -53,6 +53,7 @@ figure {
   padding: 5px;
   margin: auto;
   max-width: 100%;
+  size: 100px;
 }
 
 figcaption {
