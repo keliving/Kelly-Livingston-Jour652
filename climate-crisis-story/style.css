@@ -50,9 +50,9 @@ footer{
 }
 
 figure {
-  border: 1px black solid;
   padding: 5px;
   margin: auto;
+  max-width: 100%;
 }
 
 figcaption {
