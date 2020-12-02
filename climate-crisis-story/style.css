@@ -28,3 +28,10 @@ h2{
   font-size: 36px;
   color: red;
 }
+
+#contributors{
+  font-style: italic;
+  font-weight: bold;
+  color: gray;
+  padding-bottom: 25px;
+}
