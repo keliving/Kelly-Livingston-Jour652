@@ -48,3 +48,16 @@ footer{
   background-color: black;
   color: red;
 }
+
+figure {
+  border: 1px black solid;
+  padding: 5px;
+  margin: auto;
+}
+
+figcaption {
+  color: red;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
