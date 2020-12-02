@@ -72,3 +72,12 @@ figcaption {
   border: 5px black solid;
   margin: 30px;
 }
+
+.text-box{
+  font-size: 20px;
+  border: 5px black solid;
+  text-align: center;
+  padding: 20px;
+  margin: 30px;
+  color: red;
+}
