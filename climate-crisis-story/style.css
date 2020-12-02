@@ -78,13 +78,12 @@ figcaption {
   border: 5px black solid;
   padding: 20px;
   margin: 30px;
-  background-color: #4F4E4F;
-  color: white;
+  color: #4F4E4F;
 }
 
 .text-box-title{
   font-size: 25px;
-  border: 1px black solid;
+  border: 1px red solid;
   text-align: center;
   background-color: red;
   color: white;
