@@ -94,3 +94,18 @@ figcaption {
   font-size: 16px;
   color: #4F4E4F;
 }
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: #4F4E4F;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
