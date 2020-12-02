@@ -68,6 +68,6 @@ figcaption {
   color: red;
   text-align: center;
   padding: 30px;
-  border: 1px black solid;
-
+  border: 5px black solid;
+  margin-bottom: 10px;
 }
