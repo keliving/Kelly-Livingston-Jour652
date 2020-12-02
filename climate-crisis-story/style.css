@@ -81,3 +81,11 @@ figcaption {
   background-color: #4F4E4F;
   color: white;
 }
+
+.text-box-title{
+  font-size: 25px;
+  border: 1px black solid;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
