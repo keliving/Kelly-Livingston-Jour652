@@ -51,8 +51,8 @@ footer{
 
 figure {
   padding: 5px;
-  margin: auto;
-  size: 50px;
+  display: block;
+  margin: 1em 40px;
 }
 
 figcaption {
