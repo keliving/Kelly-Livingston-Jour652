@@ -49,10 +49,9 @@ footer{
   color: red;
 }
 
-figure {
-  padding: 5px;
-  display: block;
-  margin: 1em 40px;
+img{
+  max-width:100%;
+  height:auto;
 }
 
 figcaption {
