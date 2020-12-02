@@ -60,3 +60,12 @@ figcaption {
   padding: 2px;
   text-align: center;
 }
+
+.pullquote{
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: red;
+  text-align: center;
+  padding: 30px;
+  border: 1em black solid;
+}
