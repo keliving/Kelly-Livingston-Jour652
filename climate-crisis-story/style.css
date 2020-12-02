@@ -36,3 +36,10 @@ h2{
   padding-top: 30px;
   padding-bottom: 50px;
 }
+
+footer{
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color: red;
+}
