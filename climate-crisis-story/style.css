@@ -64,8 +64,10 @@ figcaption {
 .pullquote{
   font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
+  font-size: 30px;
   color: red;
   text-align: center;
   padding: 30px;
-  border: 1em black solid;
+  border: 1px black solid;
+
 }
