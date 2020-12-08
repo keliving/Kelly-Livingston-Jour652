@@ -30,6 +30,11 @@ p{
   color: black;
 }
 
+.graphic{
+  border: 1em solid black;
+  margin: 30px 0 px;
+}
+
 footer{
   text-align: center;
   padding: 10px;
