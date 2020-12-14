@@ -50,7 +50,7 @@ img{
 }
 
 .video{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  justify-content: center;
+  display: block;
+	width: auto;
+	margin: 0 auto;
 }
