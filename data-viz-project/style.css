@@ -50,6 +50,12 @@ img{
   max-width: 100%;
 }
 
+figure{
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
 .video{
   margin-top: 30px;
   margin-bottom: 30px;
