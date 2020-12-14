@@ -2,7 +2,7 @@
   font-family: Georgia, "Times New Roman", Serif;
   font-size: 60px;
   font-weight: bold;
-  color: red;
+  color: #730303;
   text-align: center;
 }
 
@@ -11,7 +11,7 @@
   font-size: 25px;
   font-weight: bold;
   font-style: italic;
-  color: red;
+  color: #730303;
   text-align: center;
   }
 
@@ -19,7 +19,7 @@
   font-family: Montserrat, Helvetica, sans-serif;
   font-size: 20px;
   font-style: italic;
-  color: red;
+  color: #730303;
   padding-left: 100px;
   padding-right: 100px;
   margin-bottom: 25px;
