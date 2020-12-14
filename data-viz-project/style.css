@@ -50,9 +50,7 @@ img{
 }
 
 .video{
-  width: 560px;
-  height: 315px;
   margin-top: 30px;
   margin-bottom: 30px;
-  position: absolute;
+  position: center;
 }
